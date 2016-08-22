@@ -1,0 +1,12 @@
+F:\GIT\perfcsv\perfcsv\bin\Release\perfcsv.exe
+F:\GIT\perfcsv\perfcsv\bin\Release\LumenWorks.Framework.IO.dll
+F:\GIT\perfcsv\perfcsv\obj\Release\perfcsv.csprojResolveAssemblyReference.cache
+F:\GIT\perfcsv\perfcsv\bin\Release\perfcsv.exe.config
+F:\GIT\perfcsv\perfcsv\bin\Release\LumenWorks.Framework.IO.xml
+F:\GIT\perfcsv\perfcsv\obj\Release\perfcsv.exe
+F:\GIT\perfcsv\perfcsv\obj\Release\perfcsv.pdb
+F:\GIT\perfcsv\perfcsv\bin\Release\perfcsv.pdb
+F:\GIT\perfcsv\perfcsv\bin\Release\ErikEJ.SqlCe40.dll
+F:\GIT\perfcsv\perfcsv\bin\Release\Salient.Data.dll
+F:\GIT\perfcsv\perfcsv\bin\Release\System.Data.SqlServerCe.dll
+F:\GIT\perfcsv\perfcsv\bin\Release\ErikEJ.SqlCe40.xml

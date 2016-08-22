@@ -1,0 +1,8 @@
+F:\GIT\perfcsv\perfcsv\bin\Debug\perfcsv.exe.config
+F:\GIT\perfcsv\perfcsv\bin\Debug\perfcsv.exe
+F:\GIT\perfcsv\perfcsv\bin\Debug\perfcsv.pdb
+F:\GIT\perfcsv\perfcsv\obj\Debug\perfcsv.csprojResolveAssemblyReference.cache
+F:\GIT\perfcsv\perfcsv\obj\Debug\perfcsv.exe
+F:\GIT\perfcsv\perfcsv\obj\Debug\perfcsv.pdb
+F:\GIT\perfcsv\perfcsv\bin\Debug\LumenWorks.Framework.IO.dll
+F:\GIT\perfcsv\perfcsv\bin\Debug\LumenWorks.Framework.IO.xml
